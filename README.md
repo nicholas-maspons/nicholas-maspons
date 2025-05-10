@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **nem8891@nyu.edu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
