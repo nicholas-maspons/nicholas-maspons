@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h5 align="left">I’m an Integrated Design and Media major with a Computer Science minor, studying to become a full-stack developer. My path wasn’t clean, I switched majors, dropped classes, and almost gave up on coding. A creative coding class changed that. Now I’m building projects old (younger) me could never imagine myself making, and I’m pushing myself to learn as much about programming before I graduate. I love learning from others, growing through collaboration, and picking up on whatever knowledge I can along the way.</h3>
+<h5 align="left">I’m an Integrated Design and Media major, minoring in Computer Science, studying to become a full-stack developer. My path had some detours, I switched majors, dropped classes, and almost gave up on coding. A creative coding class changed that. Now I’m building projects old (younger) me could never imagine myself making, and I’m pushing myself to learn as much about programming before I graduate. I love learning from others, growing through collaboration, and picking up on whatever knowledge I can along the way. </h3>
 
 - 🌱 I’m currently learning **PHP**
 
